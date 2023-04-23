@@ -1,0 +1,17 @@
+/* Стили для заголовков */
+
+h1 {
+	text-align: center;
+	font-size: 2.5rem;
+	margin: 2rem 0;
+}
+
+h2 {
+	font-size: 2rem;
+	margin: 1.5rem 0;
+}
+
+/* Стили для навигации */
+
+nav {
+	display: flex
